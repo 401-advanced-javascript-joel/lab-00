@@ -33,4 +33,4 @@
 
 #### UML
 
-![UML](https://drive.google.com/file/d/1bVQTMSZRnhepZbmjKFSLUXAa8sNvB7Of/view?usp=sharing)
+![UML](https://drive.google.com/uc?export=view&id=1bVQTMSZRnhepZbmjKFSLUXAa8sNvB7Of/)
