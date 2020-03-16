@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](//TODO)
+- [submission PR](https://github.com/401-advanced-javascript-joel/lab-00/pull/2)
 - [ci/cd](https://github.com/401-advanced-javascript-joel/lab-00/runs/509815481) (GitHub Actions)
 - [front-end application](https://joelwatson-lab-00.herokuapp.com/) (when applicable)
 
